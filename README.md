@@ -36,21 +36,21 @@
 
         <div class=part1>
 
- <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+ 
 
-<div id="profile-container">
+
 
 				
 
-		<br><br><br>		<h1>Profile photo</h1>
 
-   <image id="profileImage" src="http://lorempixel.com/100/100" />
 
-</div>
 
-<input id="imageUpload" type="file" 
 
-       name="profile_photo" placeholder="Photo" required="" capture>
+
+
+
+
+
 
             <div class="pd">
 
